@@ -27,7 +27,7 @@ class NameFormatter {
   }
   
   func inverted() -> String {
-    return ""
+    return "🤷‍♀️"
   }
   
 }
